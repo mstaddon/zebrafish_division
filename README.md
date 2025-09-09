@@ -1,0 +1,2 @@
+# Unilateral cell division in the zebrafish egg
+This code simulates cell division in the zebrafish where only a partial contractile cable forms around the cell. The cell is modeled as a spherical mesh of edges that behave like a Burger's material, meaning friction at short time-scales, elastic at intermediate time-scales, and viscous at long time-scales. The band grows around the equator of the cell but also generates contractile forces. In this simulation, the cell also undergoes two phases with different material properties.
